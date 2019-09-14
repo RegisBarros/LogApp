@@ -1,0 +1,20 @@
+2019-09-14 20:45:29.628 -03:00 [INF] Hello World!
+2019-09-14 20:45:29.725 -03:00 [DBG] Dividing 10 by 0
+2019-09-14 20:45:29.742 -03:00 [ERR] Something went wrong
+System.DivideByZeroException: Attempted to divide by zero.
+   at example2.Program.Main(String[] args) in /home/regis/codigos/regis/LogApp/example2/Program.cs:line 23
+2019-09-14 20:45:40.405 -03:00 [INF] Hello World!
+2019-09-14 20:45:40.501 -03:00 [DBG] Dividing 10 by 0
+2019-09-14 20:45:40.515 -03:00 [ERR] Something went wrong
+System.DivideByZeroException: Attempted to divide by zero.
+   at example2.Program.Main(String[] args) in /home/regis/codigos/regis/LogApp/example2/Program.cs:line 23
+2019-09-14 20:45:47.893 -03:00 [INF] Hello World!
+2019-09-14 20:45:47.992 -03:00 [DBG] Dividing 10 by 0
+2019-09-14 20:45:48.001 -03:00 [ERR] Something went wrong
+System.DivideByZeroException: Attempted to divide by zero.
+   at example2.Program.Main(String[] args) in /home/regis/codigos/regis/LogApp/example2/Program.cs:line 23
+2019-09-14 20:46:27.674 -03:00 [INF] Hello World!
+2019-09-14 20:46:27.780 -03:00 [DBG] Dividing 10 by 0
+2019-09-14 20:46:27.789 -03:00 [ERR] Something went wrong
+System.DivideByZeroException: Attempted to divide by zero.
+   at example2.Program.Main(String[] args) in /home/regis/codigos/regis/LogApp/example2/Program.cs:line 23
