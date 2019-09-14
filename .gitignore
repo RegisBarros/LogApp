@@ -11,5 +11,6 @@
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
-example1/obj/*
+example2/obj/
+example1/obj/
 # End of https://www.gitignore.io/api/visualstudiocode
