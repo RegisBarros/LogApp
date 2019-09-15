@@ -1,0 +1,11 @@
+/home/regis/codigos/regis/LogApp/example5/obj/Debug/netcoreapp2.2/example5.csprojAssemblyReference.cache
+/home/regis/codigos/regis/LogApp/example5/obj/Debug/netcoreapp2.2/example5.csproj.CoreCompileInputs.cache
+/home/regis/codigos/regis/LogApp/example5/obj/Debug/netcoreapp2.2/example5.AssemblyInfoInputs.cache
+/home/regis/codigos/regis/LogApp/example5/obj/Debug/netcoreapp2.2/example5.AssemblyInfo.cs
+/home/regis/codigos/regis/LogApp/example5/bin/Debug/netcoreapp2.2/example5.deps.json
+/home/regis/codigos/regis/LogApp/example5/bin/Debug/netcoreapp2.2/example5.runtimeconfig.json
+/home/regis/codigos/regis/LogApp/example5/bin/Debug/netcoreapp2.2/example5.runtimeconfig.dev.json
+/home/regis/codigos/regis/LogApp/example5/bin/Debug/netcoreapp2.2/example5.dll
+/home/regis/codigos/regis/LogApp/example5/bin/Debug/netcoreapp2.2/example5.pdb
+/home/regis/codigos/regis/LogApp/example5/obj/Debug/netcoreapp2.2/example5.dll
+/home/regis/codigos/regis/LogApp/example5/obj/Debug/netcoreapp2.2/example5.pdb
