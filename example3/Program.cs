@@ -30,8 +30,6 @@ namespace example3
 
             try
             {
-                Log.Error(new Exception("Error"), "Host terminated unexpectedly");    
-                
                 CreateWebHostBuilder(args)
                     .Build()
                     .Run();
