@@ -14,3 +14,23 @@
 example2/obj/
 example1/obj/
 # End of https://www.gitignore.io/api/visualstudiocode
+.vscode/launch.json
+.vscode/tasks.json
+example1/obj/Debug/netcoreapp2.2/LogApp.assets.cache
+example1/obj/Debug/netcoreapp2.2/LogApp.assets.cache
+example1/obj/Debug/netcoreapp2.2/LogApp.csproj.CoreCompileInputs.cache
+example1/obj/Debug/netcoreapp2.2/LogApp.csproj.CoreCompileInputs.cache
+example1/obj/Debug/netcoreapp2.2/LogApp.csprojAssemblyReference.cache
+example2/obj/Debug/netcoreapp2.2/example2.assets.cache
+example3/obj/Debug/netcoreapp2.2/project.razor.json
+example1/obj/Debug/netcoreapp2.2/LogApp.assets.cache
+example1/obj/Debug/netcoreapp2.2/LogApp.csproj.CoreCompileInputs.cache
+example1/obj/Debug/netcoreapp2.2/LogApp.csprojAssemblyReference.cache
+example2/obj/Debug/netcoreapp2.2/example2.assets.cache
+example2/obj/Debug/netcoreapp2.2/example2.csproj.CoreCompileInputs.cache
+example2/obj/Debug/netcoreapp2.2/example2.csprojAssemblyReference.cache
+example3/bin/Debug/netcoreapp2.2/example3.dll
+example3/bin/Debug/netcoreapp2.2/example3.pdb
+example3/obj/Debug/netcoreapp2.2/example3.csprojAssemblyReference.cache
+example3/obj/Debug/netcoreapp2.2/example3.dll
+example3/obj/Debug/netcoreapp2.2/example3.pdb
