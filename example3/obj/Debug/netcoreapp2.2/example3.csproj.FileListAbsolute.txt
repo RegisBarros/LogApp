@@ -1,0 +1,14 @@
+/home/regis/codigos/regis/LogApp/example3/bin/Debug/netcoreapp2.2/example3.deps.json
+/home/regis/codigos/regis/LogApp/example3/bin/Debug/netcoreapp2.2/example3.runtimeconfig.json
+/home/regis/codigos/regis/LogApp/example3/bin/Debug/netcoreapp2.2/example3.runtimeconfig.dev.json
+/home/regis/codigos/regis/LogApp/example3/bin/Debug/netcoreapp2.2/example3.dll
+/home/regis/codigos/regis/LogApp/example3/bin/Debug/netcoreapp2.2/example3.pdb
+/home/regis/codigos/regis/LogApp/example3/obj/Debug/netcoreapp2.2/example3.csprojAssemblyReference.cache
+/home/regis/codigos/regis/LogApp/example3/obj/Debug/netcoreapp2.2/example3.csproj.CoreCompileInputs.cache
+/home/regis/codigos/regis/LogApp/example3/obj/Debug/netcoreapp2.2/example3.RazorAssemblyInfo.cache
+/home/regis/codigos/regis/LogApp/example3/obj/Debug/netcoreapp2.2/example3.RazorAssemblyInfo.cs
+/home/regis/codigos/regis/LogApp/example3/obj/Debug/netcoreapp2.2/example3.AssemblyInfoInputs.cache
+/home/regis/codigos/regis/LogApp/example3/obj/Debug/netcoreapp2.2/example3.AssemblyInfo.cs
+/home/regis/codigos/regis/LogApp/example3/obj/Debug/netcoreapp2.2/example3.RazorTargetAssemblyInfo.cache
+/home/regis/codigos/regis/LogApp/example3/obj/Debug/netcoreapp2.2/example3.dll
+/home/regis/codigos/regis/LogApp/example3/obj/Debug/netcoreapp2.2/example3.pdb
